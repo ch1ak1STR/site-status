@@ -14,7 +14,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /site-status
   logoUrl: https://raw.githubusercontent.com/ch1ak1STR/site-status/master/assets/avatar.jpg
-  name: Upptime
+  name: ch1ak1's Status
   introTitle: "ch1ak1's Status"
   navbar:
     - title: Status
