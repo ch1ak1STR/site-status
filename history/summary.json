@@ -1,42 +1,20 @@
 [
   {
-    "name": "HP",
-    "url": "https://hp.leadershouse.tokyo",
-    "icon": "https://icons.duckduckgo.com/ip3/hp.leadershouse.tokyo.ico",
-    "slug": "hp",
-    "status": "down",
-    "uptime": "69.08%",
-    "uptimeDay": "47.63%",
-    "uptimeWeek": "69.08%",
-    "uptimeMonth": "69.08%",
-    "uptimeYear": "69.08%",
-    "time": 876,
-    "timeDay": 945,
-    "timeWeek": 876,
-    "timeMonth": 876,
-    "timeYear": 876,
-    "dailyMinutesDown": {
-      "2023-09-01": 79,
-      "2023-08-31": 675,
-      "2023-08-29": 534
-    }
-  },
-  {
-    "name": "BLOG",
+    "name": "Homepage",
     "url": "https://leadershouse.tokyo",
     "icon": "https://icons.duckduckgo.com/ip3/leadershouse.tokyo.ico",
-    "slug": "blog",
+    "slug": "homepage",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1073,
-    "timeDay": 1269,
-    "timeWeek": 1073,
-    "timeMonth": 1073,
-    "timeYear": 1073,
+    "time": 917,
+    "timeDay": 917,
+    "timeWeek": 917,
+    "timeMonth": 917,
+    "timeYear": 917,
     "dailyMinutesDown": {}
   },
   {
@@ -50,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 698,
-    "timeWeek": 774,
-    "timeMonth": 774,
-    "timeYear": 774,
+    "time": 751,
+    "timeDay": 703,
+    "timeWeek": 751,
+    "timeMonth": 751,
+    "timeYear": 751,
     "dailyMinutesDown": {}
   }
 ]
