@@ -23,6 +23,8 @@ status-website:
       href: https://leadershouse.tokyo
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+i18n:
+  footer: <small>Powered by <a href="https://leadershouse.tokyo"><strong>ch1ak1</strong></a>.</small>
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
