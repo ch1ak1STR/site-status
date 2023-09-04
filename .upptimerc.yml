@@ -7,6 +7,8 @@ sites:
     url: https://leadershouse.tokyo
   - name: SearXNG
     url: https://searxng.leadershouse.tokyo
+  - name: Nextcloud
+    url: https://nc.leadershouse.tokyo
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
