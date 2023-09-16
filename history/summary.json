@@ -42,19 +42,19 @@
     "url": "https://nc.leadershouse.tokyo",
     "icon": "https://icons.duckduckgo.com/ip3/nc.leadershouse.tokyo.ico",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2025,
-    "timeDay": 5637,
-    "timeWeek": 2396,
-    "timeMonth": 2025,
-    "timeYear": 2025,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1994,
+    "timeDay": 4266,
+    "timeWeek": 2309,
+    "timeMonth": 1994,
+    "timeYear": 1994,
     "dailyMinutesDown": {
-      "2023-09-16": 0
+      "2023-09-16": 7
     }
   }
 ]
