@@ -1,7 +1,7 @@
 url: https://nc.leadershouse.tokyo
-status: up
-code: 200
-responseTime: 1269
-lastUpdated: 2023-12-29T23:13:26.824Z
+status: down
+code: 503
+responseTime: 870
+lastUpdated: 2023-12-30T07:25:26.619Z
 startTime: 2023-09-04T16:34:43.398Z
 generator: Upptime <https://github.com/upptime/upptime>
